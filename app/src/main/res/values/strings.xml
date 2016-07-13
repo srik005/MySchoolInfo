@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySchoolInfo</string>
+    <string name="email_address">Email:Jmhss.jessie@gmail.com</string>
+    <string name="address">Address:25,Salaipillaiyar kovil street, Puthur, Trichy-17</string>
+    <string name="working_hour">Working Hours:8.30 AM - 3.30 PM</string>
+    <string name="school_name">Website:http://www.jessieschool.com/</string>
+</resources>
